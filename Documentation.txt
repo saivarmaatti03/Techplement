@@ -1,0 +1,14 @@
+Random Password Generator
+Description: 
+This command-line application generates random passwords with customizable length and type.
+It ensures that the generated passwords are secure and resistant to brute-force attacks and guessing.
+Usage:python password_generator.py
+
+Commands used:
+Input commands for taking inputs about required length of password.
+conditional commands to check the specific conditiond met or not.
+list comprehension to generate alphabets, special chars and digits for password generation.
+functions to generate the password.
+
+output:
+A random password will be generated based on the required character type given by the user.
